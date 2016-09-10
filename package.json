@@ -1,0 +1,27 @@
+{
+  "name": "simple-chat",
+  "version": "1.0.0",
+  "description": "simple chat using sails.js and electron",
+  "main": "\"\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funyx/simple-chat.git"
+  },
+  "keywords": [
+    "sails",
+    "electron",
+    "bootstrap",
+    "socket.io",
+    "sails.io.js",
+    "angular2"
+  ],
+  "author": "Dimitar Dobchev <ddochev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/funyx/simple-chat/issues"
+  },
+  "homepage": "https://github.com/funyx/simple-chat#readme"
+}
