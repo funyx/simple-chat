@@ -23,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/funyx/simple-chat/issues"
   },
-  "homepage": "https://github.com/funyx/simple-chat#readme"
+  "homepage": "https://github.com/funyx/simple-chat#readme",
+  "devDependencies": {}
 }
