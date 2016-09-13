@@ -4,7 +4,8 @@
   "description": "simple chat using sails.js and electron",
   "main": "\"\"",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "submodules": "git submodule update --init ./api && git submodule update --init ./app"
   },
   "repository": {
     "type": "git",
